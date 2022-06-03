@@ -346,5 +346,5 @@ class Sanyu(BotProgram):
             time.sleep(self.wait_for)
                     
 if __name__ == "__main__":
-    bot_api = "https://api.telegram.org/bot5401015299:AAEIrKu9unhJ1dDcwU8XVg2x-snd1layu4U"
+    bot_api = "insert bot api here before use"
     Sanyu(BotAPI(bot_api)).run()
